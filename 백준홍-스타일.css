@@ -1,0 +1,66 @@
+h2 {
+  font-size : 40px;
+  font-family: 'Gugi', cursive;
+  color: #395B64;
+}
+
+body {
+  background-color : #D7C0AE;
+  background-image : url("media/cloud.png");
+  background-position : center center;
+  background-size : 300px 150px;
+  background-repeat : repeat-x y; 
+}
+
+p:first-letter {
+  font-size: 1.5em;
+  color: red;
+}
+
+.picture {
+  box-shadow : 3px 3px 3px red;
+}
+
+.week_time {
+  background-color : yellow;
+}
+
+.schedule_back {
+  background-color : #EEF1FF;
+}
+
+.No_Lecture {
+  background-color : #EFEFEF;
+}
+
+.컴퓨팅사고 {
+  background-color : #DD5353;
+}
+
+.확률분포론 {
+  background-color : #B1B2FF;
+}
+
+.확률분포론연습 {
+  background-color : #AAC4FF;
+}
+
+.데이터베이스 {
+  background-color : #FFCACA;
+}
+
+.회귀분석 {
+  background-color : #C689C6;
+}
+
+.회귀분석연습 {
+  background-color : #FFABE1;
+}
+
+.웹프로그래밍 {
+  background-color : #647E68;
+}
+
+.선형대수 {
+  background-color : #FFD384;
+}
